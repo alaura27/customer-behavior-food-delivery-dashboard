@@ -8,6 +8,7 @@
 
 > **Dashboard executivo e motor de Triagem Inteligente de CRM** desenvolvido em Python com Streamlit para análise de retenção, sentimento (*Feedback Rate*), geolocalização de pedidos e segmentação multidimensional de clientes de plataformas de entrega de comida online.
 
+Link: https://customer-behavior-food-delivery-dashboard.streamlit.app/
 ---
 
 ## 📌 1. Visão Geral e Problema de Negócio
